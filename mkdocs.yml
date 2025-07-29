@@ -1,0 +1,58 @@
+site_name: CA Wiki
+site_url: https://wiki.combinedarms.co.uk
+# TODO Fix before launch
+repo_url: https://github.com/TheEchoCode/CAWiki
+repo_name: CAWiki
+
+theme:
+  language: en
+  name: material
+  palette:
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - content.code.copy
+
+plugins:
+  - offline
+  - search
+  - tags
+  - privacy
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+
+
+nav:
+  - Welcome: index.md
+  - Rules: rules.md
+  - Constitution: constitution.md
+  - Servers: servers.md
+  - Arma 3:
+    - Getting started: arma_3/getting_started.md
+    - Repos & CDLC: arma_3/repos_cdlc.md
+    - Guides:
+      - Setting up Swifty: arma_3/swifty_getting_started.md
+      - Infantry primer: arma_3/infantry_primer.md
+      - Medical guide: arma_3/medical_guide.md
+  - Event hosting:
+    - Hosting: event_hosting/hosting.md
+    - Event template: event_hosting/event_template.md
+  - Mission making:
+    - CAFE3: mission_making/cafe3.md
