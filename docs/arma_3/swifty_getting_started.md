@@ -43,7 +43,9 @@ Your Swifty is now configured and you can start adding mod-lists (aka “reposit
 
 ## Adding a new mod-list (aka ‘repository’)
 
-1. Find the repository you want to add at [Repos & CDLC page](repos_cdlc.md), save the path 
+1. Find the repository you want to add at [Repos & CDLC page](repos_cdlc.md) and copy the link, making sure to include the http://
+
+2. In the main swifty window, click "Add Repository"
 
 ## Troubleshooting
 
