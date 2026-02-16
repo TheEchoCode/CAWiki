@@ -59,5 +59,11 @@ nav:
     - Hosting: event_hosting/hosting.md
     - Event template: event_hosting/event_template.md
   - Mission making:
-    - CAFE3: mission_making/cafe3.md
+    - Mission making with CA: mission_making/cafe3.md
+    - Technical guides:
+      - Installing the framework: mission_making/framework/installing_framework.md
+      - Configuration:
+        - Core Configuration: mission_making/framework/core_configuration.md
+        - Optional Configuration: mission_making/framework/optional_config.md
+      - Uploading the mission and slotting: mission_making/framework/uploading.md
     - Client-side mods: mission_making/suggested_addons.md

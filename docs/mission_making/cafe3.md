@@ -1,6 +1,13 @@
-# CAFE3 Recommendations
+# Mission Making with CA
 
-Combined Arms have our own Arma 3 mission framework called [CAFE3](https://github.com/CombinedArmsGaming/CAFE3), the goal of the framework is to ease the creation of missions for Arma 3. 
+Thanks for your interest in making missions with CA!
 
-It can be found on [CAFE3 Github](https://github.com/CombinedArmsGaming/CAFE3), make sure to take a look at the README and [CAFE3 wiki](https://github.com/CombinedArmsGaming/CAFE3/wiki) to get started with mission making. 
+To make a mission with CA, we require that you use our framework, called CAFE3. The framework contains many features and additions to make mission making easier and more consistent. 
 
+To learn how to use the framework, follow the guides starting with [how to install it](framework/installing_framework.md) and the [core configuration](framework/core_configuration.md).
+
+Once you have the base of your mission configured, you can either configure the [additional features](framework/optional_config.md), or just proceed to making the mission!
+
+You can find some tips and tricks for mission making [here](tips.md). 
+
+Once you are finished with the mission, see the guide [here](framework/uploading.md) for instructions on getting it on the server and the slotting website.
