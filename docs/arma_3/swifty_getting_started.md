@@ -51,17 +51,13 @@ Your Swifty is now configured and you can start adding mod-lists (aka “reposit
 
 ### Find the Arma 3 directory
 
-1. Find Arma 3 in your Steam library. You can right-click on it and go to “Properties”:
+1. Find Arma 3 in your Steam library. Right-click on it and go to "Manage" and then "Browse local files"
 
-	![](../img/image_3.png)
+	![](../img/image_4.png)
 
-2. Once you’re there, you can click the “Installed Files” section in the left sidebar and then click the “Browse…” button on the right-hand side. This will open the Arma 3 folder and you can then copy the file-path from there and paste it into Swifty.
+2. This will open the Arma 3 folder and you can then copy the file-path from there and paste it into Swifty.
 
-### 
-
-![](../img/image_4.png)
-
-![](../img/image_5.png)
+	![](../img/image_5.png)
 
 ### Helpful extra steps
 
