@@ -8,6 +8,8 @@
 
 We use repos to organize our mods. You do not need to download all of them, but if you set them all to the same path they will share files and not duplicate downloads. Mission makers will announce on the slotting page and in the briefing which repo a mission uses.
 
+Downloading Main will give you all of the mods for V+ and most of the mods for the other repos.
+
 | Name    | Path                    | Note | Size |
 |---------|-------------------------|---------|-------|
 | Vanilla+ | [http://mods.combinedarms.co.uk/core/](http://mods.combinedarms.co.uk/core/) | | ~3 GB |

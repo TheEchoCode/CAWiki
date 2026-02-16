@@ -37,7 +37,11 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - tables
+  - md_in_html
+  - attr_list
 
+extra_css:
+  - style.css
 
 nav:
   - Welcome: index.md
