@@ -1,7 +1,6 @@
 # How to Swifty
 
-By Bubbus for CA 
-With segments from the old guide by Starvolt. 
+A guide written by Starvolt, Bubbus and Emma
 
 ## Foreword (Why Swifty?)
 
