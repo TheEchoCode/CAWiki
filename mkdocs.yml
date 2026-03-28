@@ -53,10 +53,7 @@ nav:
     - Repos & CDLC: arma_3/repos_cdlc.md
     - Guides:
       - Setting up Swifty: arma_3/swifty_getting_started.md
-      - Infantry primer: arma_3/infantry_primer.md
-      - Medical guide: arma_3/medical_guide.md
   - Event hosting:
     - Hosting: event_hosting/hosting.md
-    - Event template: event_hosting/event_template.md
-  - Mission making:
-    - CAFE3: mission_making/cafe3.md
+    - Mission making:
+      - Arma 3: mission_making/arma3.md

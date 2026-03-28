@@ -4,3 +4,4 @@ Combined Arms have our own Arma 3 mission framework called [CAFE3](https://githu
 
 It can be found on [CAFE3 Github](https://github.com/CombinedArmsGaming/CAFE3), make sure to take a look at the README and [CAFE3 wiki](https://github.com/CombinedArmsGaming/CAFE3/wiki) to get started with mission making. 
 
+Bubbus also created a tool to create Arma 3 briefings, which can be found at [https://bubbus.github.io/CA-Briefer/](https://bubbus.github.io/CA-Briefer/)

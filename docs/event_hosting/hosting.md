@@ -36,4 +36,4 @@ To see the currently booked events, checkout the [calendar](https://calendar.goo
 4. If the event has already been announced and people have signed up for it, make sure to notify the attendees the event has been cancelled. 
 
 ## Arma 3
-When hosting an Arma event you also need to create an event on our slotting site. 
+When hosting an Arma event you also need to create an event on our [slotting site](https://slotting.combinedarms.co.uk).
