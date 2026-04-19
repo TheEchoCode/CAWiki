@@ -100,15 +100,9 @@ Once you have the repository you wish to add the CDLC to, open its settings. The
 
 <div class="center-table" markdown>
 
-| CDLC | Parameter |
-| -------------------- | ---------- |
-| Global Mobilization  | -mod=GM;   |
-| SOG Prairie Fire     | -mod=vn;   |
-| Western Sahara	   | -mod=ws;   |
-| CSLA Iron Curtain    | -mod=CSLA; | 
-| Spearhead 1944       | -mod=spe;  |
-| Reaction Forces      | -mod=rf;   |
-| Expeditionary Forces | -mod=ef;   |
+--8<--
+docs/arma_3/cdlcs.md
+--8<--
 
 </div>
 
