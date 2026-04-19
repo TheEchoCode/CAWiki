@@ -78,9 +78,9 @@ Your Swifty is now configured and you can start adding mod-lists (aka “reposit
 	!!! Note
 		In the future, this is also how you will update your mods if any changes are made.
 
-<figure markdown="span">
-  ![Swifty with Check Now button](../img/swifty/check_now.png)
-</figure>
+	<figure markdown="span">
+	![Swifty with Check Now button](../img/swifty/check_now.png)
+	</figure>
 
 2. Once Swifty has finished checking the mods, it will prompt you to download any missing mods. Hit download, and Swifty will download and install the necessary mods/updates.
 
