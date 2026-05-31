@@ -1,6 +1,9 @@
 # Welcome to CA Wiki
 
-Make sure to read our [rules](rules.md) and [constitution](constitution.md) in the sidebar!
+!!! warning
+	Make sure to read our [rules](rules.md) and [constitution](constitution.md) in the sidebar!
+
+Combined Arms (CA) is an open, international community designed for anyone who wants to play games in an organised manner, but in a relaxed setting. There is no membership requirements except following the [rules](rules.md) and being 18+.
 
 ## Where can CA be found?
 

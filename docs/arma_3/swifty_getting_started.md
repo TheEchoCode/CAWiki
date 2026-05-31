@@ -46,7 +46,7 @@ Your Swifty is now configured and you can start adding mod-lists (aka “reposit
 
 ## Adding a new mod-list (aka ‘repository’)
 
-1. Find the repository you want to add at [Repos & CDLC page](repos_cdlc.md) and copy the link, making sure to include the http://
+1. Find the repository you want to add at [Repos & CDLC page](repos_cdlc.md) and copy the link, making sure to include the ``http://`` part of the address.
 
 2. In the main swifty window, click "Add Repository", then enter the desired repo address and click "Import from URL". 
 
@@ -56,14 +56,14 @@ Your Swifty is now configured and you can start adding mod-lists (aka “reposit
 
 ## Repository Settings
 
-1. Fill in the name as desired
+1. Fill in the name as desired, we recommend having the type (vanilla+, main etc) of repo and included CDLCs in the name.
 
-2. The Path is where the mods will be installed. A new folder in the Arma 3 directory works well, but it is up to you.
+2. The Path is where the mods will be installed. A new folder in the [Arma 3 directory](#find-the-arma-3-directory) works well, another drive also works, it is up to you.
 
-	!!! Note
+	!!! Warning
 		If you are adding multiple repos, make sure they have the same path so any shared mods are not duplicated!
 
-3. The Parameters are equivalent to setting Launch Options through Steam. The parameters shown below (-nosplash -world=empty -skipintro -noPause) will help the game boot faster, but are entirely optional. To see all available launch options, check the [Arma 3 wiki](https://community.bistudio.com/wiki/Arma_3:_Startup_Parameters).
+3. The Parameters are equivalent to setting Launch Options through Steam. The parameters shown below (``-nosplash -world=empty -skipintro -noPause``) will help the game boot faster, but are entirely ***optional***. To see all available launch options, check the [Arma 3 wiki](https://community.bistudio.com/wiki/Arma_3:_Startup_Parameters).
 
 4. Once everything is set to your liking, click the X to close the repository settings. 
 
@@ -128,7 +128,7 @@ Swifty supports adding client side mods, such as sound mods or Zeus UI mods.
 
 3. Click "Add new folder" and find the location of your client-side mods. If they come from the steam workshop, they will be in Arma 3\!Workshop. See [below](#find-the-arma-3-directory) for how to find your Arma 3 directory.
 
-!!! Note
+!!! Warning
 	You must launch Arma through Steam with the mods enabled at least once before they will work when launched through Swifty.
 
 <figure markdown="span">
