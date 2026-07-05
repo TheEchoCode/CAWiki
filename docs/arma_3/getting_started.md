@@ -8,8 +8,8 @@ We use Swifty to download and mange our Arma 3 mods, how to install and setup th
 
 | Name        	| Required               	| Type                    	|
 |-------------	|------------------------	|-------------------------	|
-| Apex        	| **Yes\***                    	| Terrain, Gear, Vehicles 	|
-| Contact     	| **Yes\***                    	| Terrain, Gear, Vehicles 	|
+| Apex        	| **Yes\*                  	| Terrain, Gear, Vehicles 	|
+| Contact     	| **Yes\*                  	| Terrain, Gear, Vehicles 	|
 | Karts       	| Mission/slot dependent 	| Vehicles                	|
 | Helicopters 	| Mission/slot dependent 	| Vehicles                	|
 | Marksmen    	| Mission/slot dependent 	| Gear                    	|
