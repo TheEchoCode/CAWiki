@@ -86,9 +86,9 @@ Your Swifty is now configured and you can start adding mod-lists (aka “reposit
 
 ## Installing ACRE
 
-We use ACRE2 for radios and proximity chat. It comes with a Teamspeak plugin. To install the Teamspeak plugin, open Arma once by pressing the Launch button on Swifty **while Teamspeak is closed**. This will automatically install the plugin for you. After that, it doesn't matter if Teamspeak is open or closed when you launch Arma.
+We use ACRE2 for radios and proximity chat. It comes with a Teamspeak plugin. To install the Teamspeak plugin, open Arma once by pressing the ``Launch`` or ``Join`` button in Swifty **while Teamspeak is closed**. This will automatically install the plugin for you. After that, the only time you need to take the order to start Arma 3 and Teamspeak in consideration is when ACRE2 updates, there will be a popup upon launching arma which will warn and instruct you what to do.
 
-You're now finished! Come mission time, hit the Join button to launch Arma and automatically join the CA server. Alternatively, the Launch button can be used to launch Arma with the mods loaded, but without connecting to the server. 
+You're now finished! Come mission time, hit the ``Join`` button on the repo for the event to launch Arma and automatically join the CA server. Alternatively, the ``Launch`` button can be used to launch Arma with the mods loaded, but without connecting to the server. 
 
 ## CDLCS (Global Mobilisation, SOG, etc.)
 

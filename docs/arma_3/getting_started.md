@@ -27,6 +27,10 @@ We run COOP missions every Sunday, and usually a more casual event on Saturdays.
 
 Signing up for these missions just involves using a slotting bot on our Discord server! Be sure to show up on TS and the game server in time and don't be afraid to ask an Officer or Moderator for help!
 
+When signing up for an event you sign up for a role which provides you with weapon(s) and gear. Since some roles have a big impact on everyone else's enjoyment of the game, such as leadership, vehicle crew, medics and special slots, those roles may be locked to non-members.
+
+You become a member after playing two regular events with us.
+
 ## Guides
 ### Medical Guide
 
