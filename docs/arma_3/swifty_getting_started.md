@@ -19,18 +19,18 @@ Swifty installation should normally be quite easy, but sometimes it can encounte
 	!!! Note
 		Make sure you get the Swifty Setup and not the “Swifty-cli”!
 
-<figure markdown="span">
-  ![Screenshot of which Swifty download to select](../img/swifty/swifty_pick.png){ loading=lazy }
-</figure>
+	<figure markdown="span">
+	![Screenshot of which Swifty download to select](../img/swifty/swifty_pick.png){ loading=lazy }
+	</figure>
 
 2. Run the ``Setup.exe`` (this will install and open Swifty). 
 
 
 3. By default, Swifty will be empty. Open the Settings menu in Swifty by clicking the cog icon in the upper right of the window.
 
-<figure markdown="span">
-  ![Screenshot of settings button location](../img/swifty/settings_button.png)
-</figure>
+	<figure markdown="span">
+	![Screenshot of settings button location](../img/swifty/settings_button.png)
+	</figure>
 
 4. In the settings page, you can set the Arma 3 directory and a “Temporary directory”.
 
@@ -38,9 +38,9 @@ Swifty installation should normally be quite easy, but sometimes it can encounte
 
 	The “Temporary directory” is a place that Swifty will download mods into when it is updating: when the mods are fully downloaded then they are moved away into the proper place. Make sure that you have this directory somewhere with enough disk space.
 
-<figure markdown="span">
-  ![Swifty settings example](../img/swifty/swifty_settings.png)
-</figure>
+	<figure markdown="span">
+	![Swifty settings example](../img/swifty/swifty_settings.png)
+	</figure>
 
 Your Swifty is now configured and you can start adding mod-lists (aka “repositories”).
 
